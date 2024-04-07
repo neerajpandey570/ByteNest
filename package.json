@@ -1,0 +1,29 @@
+{
+	"name": "ByteNst OS",
+	"version": "7.1.00242",
+	"description": "A dynamic \"Webulation\" of Microsoft Windows forked from Webdows for ByteNest.",
+	"main": "webdows/system32/kernel.js",
+	"dependencies": {
+		"jquery": "^3.7.1",
+		"platform": "^1.3.1"
+	},
+	"engines": {
+		"node": "4.0.0"
+	},
+	"keywords": [
+		"ByteNest",
+		"Web",
+		"OS",
+		"WebOS",
+		"BNWebOS",
+		"jquery",
+		"api",
+		"windows",
+		"javascript"
+	],
+	"author": "rmellis",
+	"contributors": [
+		"tallulah95 <tallulah95@m.ByteNest.co.uk> (http://cdn.ByteNest.co.uk/)"
+	],
+	"license": "MIT"
+}
