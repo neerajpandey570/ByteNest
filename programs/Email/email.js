@@ -40,7 +40,7 @@ iframe  {float:left; height:100%; width:100%;}
   </tr>
   <tr>
       <td class="content">
-      <iframe src="programs/Email/email.html" frameborder="0"></iframe>
+      <iframe src="./email.html" frameborder="0"></iframe>
     </td>
   </tr>
 </table>

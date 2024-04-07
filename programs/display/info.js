@@ -41,7 +41,7 @@ iframe  {float:left; height:100%; width:100%;}
       </td>
   </tr>
   <tr>
-      <td class="content">      <iframe src="webdows/res.jsp"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
+      <td class="content">      <iframe src="../../webdows/res.jsp"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
     </td>
   </tr>
 </table>

@@ -296,7 +296,7 @@ new explorer.window()
 	];
 	var body = this.body;
 	body.css({'padding-top':'42px','text-align':'center','overflow-x':'hidden'});
-	body.html('<div class="topframe">  <div align="center"><img src="programs/Fence/topframe.png" width="360" height="56" draggable="false" ondragstart="return false;" align="baseline" class="top" /></div></div>');
+	body.html('<div class="topframe">  <div align="center"><img src="./topframe.png" width="360" height="56" draggable="false" ondragstart="return false;" align="baseline" class="top" /></div></div>');
 	$.each(butts, function() {
 		var buttID = system.guid();
 		body.append('<button buttID="'+buttID+'" class="butt"><span style="background-image:url(\''+this.icon+'\');" class="icon"></span>'+this.text+'</button>');

@@ -41,7 +41,7 @@ iframe  {float:left; height:100%; width:100%;}
   </tr>
   <tr>
       <td class="content">
-      <iframe src="programs/Doom3/d3.htm" "frameborder=" "tabindex="0"></iframe>
+      <iframe src="./programs/Doom3/d3.htm" "frameborder=" "tabindex="0"></iframe>
     </td>
   </tr>
 </table>
